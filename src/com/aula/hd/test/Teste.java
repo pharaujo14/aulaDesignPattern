@@ -10,7 +10,7 @@ public class Teste {
 		HamburguerFactory hamburguer = new HamburguerTipoFactory();
 		
 		hamburguer.criarHamburguer("misto");
-		System.out.println(hamburguer.toString());
+		
 		
 	}
 
